@@ -1,0 +1,8 @@
+Monochrome Bitmap (*.bmp;*.dib) 
+16 Color Bitmap (*.bmp;*.dib) 
+256 Color Bitmap (*.bmp;*.dib) 
+24-bit Bitmap (*.bmp;*.dib) 
+JPEG (*.JPG;*.JPEG;*.JPE;*.JFIF) 
+GIF (*.GIF) 
+TIFF (*.TIF;*.TIFF) 
+PNG (*.PNG) 
