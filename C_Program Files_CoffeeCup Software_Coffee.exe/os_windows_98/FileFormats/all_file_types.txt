@@ -1,0 +1,4 @@
+Html Files (*.html; *.htm) 
+Server HTML (*.asp; *.css; *.shtml; *.phtml) 
+Text Files (*.txt; *.pl; *.cgi) 
+All Files (*.*) 
